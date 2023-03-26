@@ -1,5 +1,6 @@
 ##############################################
 # Othello game for python
+# Modified on WSL
 # May 3rd Reiwa 1
 ##############################################
 # -*- coding: utf-8 -*-
